@@ -1,8 +1,8 @@
 package com.miam;
 
 public class Four {
-    private int puissance;
-    private int capacite;
+    public int puissance;
+    public int capacite;
 
     private Resistance resistance;
     private Soufflerie soufflerie;
